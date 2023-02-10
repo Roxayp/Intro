@@ -1,0 +1,32 @@
+body {
+    background-color: #D4DBE2;
+}
+footer {
+    background-color: #D4DBE2;
+}
+.toprow {
+    border: 3px;
+    border-color: #7B7C81;
+    border-style: solid;
+    /* background-color: #7B7C81; */
+}
+.navbar{
+    align-content: center;
+}
+#navlink {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: #1D0F0F;
+    font-size: 20px;
+    text-align: right;
+}
+#navlink:hover {
+    color: #D4DBE2;
+    text-decoration: underline;
+}
+.logo {
+    max-height: 150px;
+}
+.pfp {
+    max-width: 100%;
+}
